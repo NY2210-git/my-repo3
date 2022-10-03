@@ -2,7 +2,7 @@ pipeline {
      
 	   agent {
 	          
-			  label 'built-in'
+			  label '172.31.15.40'
 			  
 			  }
 	    
