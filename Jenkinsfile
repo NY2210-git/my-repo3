@@ -8,7 +8,7 @@ pipeline {
 	    
 		stages {
 
-                stage ('httpd-inst'){
+                stage ('httpd-instsa'){
 
                     steps {
    
